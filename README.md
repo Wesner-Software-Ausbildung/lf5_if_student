@@ -11,7 +11,7 @@ Infoblatt: [IB If-Anweisungen](./IB If-Anweisungen.md)
 * [discount*   +](./src/discount/task.md)
 * [discount2*   +](./src/discount2/task.md)
 * [sort**   +](./src/sort/task.md)
-* [deathValley**   -](./src/deathValley/task.md)
+* [deathValley**   +](./src/deathValley/task.md)
 
 ---
 #####verschachtelte If-Anweisungen
