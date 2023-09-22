@@ -19,7 +19,7 @@ public class Calculator {
             result = number1 / number2;
             operator = ':';
         } else {
-            return "Sie müssen einen der vier Operatoren +,-,*,/ eingeben";
+            return "Sie müssen einen der vier Operatoren +,-,*,/ eingeben!";
         }
         return number1 + " " + operator + " " + number2 + " = " + result;
     }
