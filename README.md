@@ -24,7 +24,7 @@ Infoblatt: [IB Verschachtelte If-Anweisungen und Fallunterscheidungen](./IB Vers
 * [DateValidation***   -](./src/dateValidation/task.md)
 * [Grades*   +](./src/gradesWithIHKScheme/task.md)
 * [Tyre pressure   +](./src/tyre_pressure/task.md)
-* [Median**   -](./src/median/task.md)
+* [Median**   +](./src/median/task.md)
 * [Morse*   +](./src/morse/task.md)
 * [TrainInByteburg***   -](./src/trainInByteburg/task.md)
 * [Horoscope (switch-case)**   -](./src/horoscope/task.md)
