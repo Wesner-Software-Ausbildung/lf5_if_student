@@ -14,6 +14,5 @@ public class DateValidatorUI {
         System.out.print("Jahr: ");
         int year = scanner.nextInt();
         System.out.println(dateValidator.validateDate(day, month, year));
-        System.out.println("Das Datum ist richtig!");
     }
 }
