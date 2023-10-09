@@ -21,7 +21,7 @@ Infoblatt: [IB Verschachtelte If-Anweisungen und Fallunterscheidungen](./IB Vers
 * [Maximum*   +](./src/getMaximum/task.md)
 * [Calculator*   +](./src/calculator/task.md)
 * [maexchen**   +](./src/maexchen/task.md)
-* [DateValidation***   -](./src/dateValidation/task.md)
+* [DateValidation***   +](./src/dateValidation/task.md)
 * [Grades*   +](./src/gradesWithIHKScheme/task.md)
 * [Tyre pressure   +](./src/tyre_pressure/task.md)
 * [Median**   +](./src/median/task.md)
